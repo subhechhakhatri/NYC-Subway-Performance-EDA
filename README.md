@@ -33,4 +33,4 @@ $$\text{Performance Score} = 0.9467 - 0.0605 \times (\text{Total Delay})$$
 Based on the regression results, the MTA should focus on reducing "additional platform time." Since the model shows that fractional increases in wait times have a statistically measurable negative impact on performance scores, small improvements in platform dispatching could lead to significant gains in overall system reliability.
 
 
-For more detailed insights, please refer to the full HTML report.
+For more detailed insights, please refer to the EDA_MTA.md file.
